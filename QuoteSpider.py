@@ -1,4 +1,5 @@
 import scrapy
+## Authur Achyut
 
 class QuoteSpider(scrapy.Spider):
     name = 'quote-spdier'
